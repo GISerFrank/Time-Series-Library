@@ -1,0 +1,5 @@
+# 4 Steps for Model Training(Complement of *Readme*)
+  1. Download designated Python version
+  2. Create virtual environment(python 3.8), then install cuda&cudnn(the version of cuda should be compatible to the version of torch)
+  3. Run **pip install -r requirements.txt** to install necessary dependencies
+  4. Run **bash ./scripts/xxx/xxx/xxx.sh**
